@@ -13,3 +13,9 @@ Progress outline:
 -	Global data:  SELECTE year, avg_temp FROM global_data
 -	My city data: SELECTE year, city, avg_temp FROM city_data 
 	WHERE city = 'Riyadh'
+
+
+
+**Conclusion**
+
+The analysis shows that there is a rising in temperature for many reasons of climate changing.
